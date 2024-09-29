@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @18vikastg
+- 👋 Hi, I’m Vikas T G
 - 👀 I’m interested in ... Web Development and App Development and in solving real life problems using tech.
 - 🌱 I’m currently learning ... BE in Computer Science Engineering in JSSATEB Bengaluru.
 - 💞️ I’m looking to collaborate on ... Any web dev projects available.
