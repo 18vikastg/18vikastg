@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **svelte-kit. and other frameworks.**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5567665017414962101](https://www.blogger.com/blog/posts/5567665017414962101)
-
 - 📫 How to reach me **vikastg2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
