@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas T G</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 <h3 align="center">Welcome to my GitHub profile! I'm an enthusiastic Software Engineer and Full-Stack Developer passionate about building impactful web and app solutions. My interests span across app development, cloud technologies, and databases, and I’m always keen to dive into new technologies.</h3>
 
