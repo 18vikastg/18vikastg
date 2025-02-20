@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18vikastg&label=Profile%20views&color=0e75b6&style=flat" alt="18vikastg" /> </p>
 
 - 🔭 I’m currently working on **XDR Security issue**
-
-- 🌱 I’m currently learning **svelte-kit. and other frameworks.**
-
+- 🌱 I’m currently learning **svelte-kit and other frameworks.**
 - 📫 How to reach me **vikastg2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +13,7 @@
 <a href="https://www.leetcode.com/vikas_t_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_t_g" height="30" width="40" /></a>
 </p>
 
-###
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 <h3 align="left">Coding Languages:</h3>
 <p align="left">
@@ -78,7 +76,31 @@
   </a> 
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18vikastg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18vikastg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=18vikastg&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18vikastg&theme=2077">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18vikastg&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=18vikastg&theme=aura_dark"></td>
+  </tr>
+</table>
+
+
+
+
+<!--
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohitnagaraj) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohitnagaraj) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohitnagaraj)
+-->
+
