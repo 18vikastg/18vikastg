@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas T G</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
 
+<h3 align="center">Welcome to my GitHub profile! I'm an enthusiastic Software Engineer and Full-Stack Developer passionate about building impactful web and app solutions. My interests span across app development, cloud technologies, and databases, and I’m always keen to dive into new technologies.</h3>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=18vikastg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
