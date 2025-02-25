@@ -3,17 +3,16 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm an enthusiastic Software Engineer and Full-Stack Developer passionate about building impactful web and app solutions. My interests span across app development, cloud technologies, and databases, and I’m always keen to dive into new technologies.</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=18vikastg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working on **XDR Security Issues**
-- 🌱 Learning **SvelteKit and other frameworks**
-- 📫 Reach me at **vikastg2000@gmail.com**
+- 🔥 Currently working on **XDR Security Issues**
+- 🌱 Learning **SvelteKit, React.js, and other frameworks**
+- 📧 Reach me at **vikastg2000@gmail.com**
 
-## 📫 Connect with Me
+## 📧 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/vikas-t-g-09692325a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -38,13 +37,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases
+
+ 
+  
+
+
+### 🟡 Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -78,3 +87,5 @@
     </td>
   </tr>
 </table>
+
+
