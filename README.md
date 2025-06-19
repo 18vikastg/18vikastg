@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas T G</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
-<p align="center">Welcome to my GitHub profile! I'm an enthusiastic Software Engineer and Full-Stack Developer passionate about building impactful web and app solutions. My interests span across app development, cloud technologies, and databases, and I’m always keen to dive into new technologies.</p>
+<p align="center">Welcome to my GitHub profile! I'm an enthusiastic Software Engineer and Full-Stack Developer passionate about building impactful web and app solutions. My interests span across web and app development, cloud technologies, and databases, and I’m always keen to dive into new technologies.</p>
 
 ---
 
@@ -16,13 +16,13 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18vikastg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=18vikastg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=18vikastg&theme=dark&show_icons=true&hide_border=false)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=18vikastg&theme=neon-palenight&hide_border=true&card_width=705)
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18vikastg&theme=2077)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18vikastg&theme=aura_dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=18vikastg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+
 
 ---
 
@@ -63,11 +63,14 @@
 
 ## 🚀 Projects
 
-1. 🔧 Developed an internal **XDR Security Ticket System** for Arcolab  
-2. 📚 Built a **Placement Portal** for college with authentication for students, lecturers, and admins  
-3. 🧠 Created a **Medical Chatbot** using LangChain + FAISS for document-based Q&A  
-4. 📜 Developed an **AI Interview Interface** using Google Meet-style UI with real-time notes and analysis  
-
+- 💬 **ai-feedback-platform** – Platform offering real-time feedback on AI-generated or user-generated responses.
+- 🌐 **animation-site** – A showcase of animated UI components for websites.
+- 🧠 **medical-chatbot** – Chatbot answering medical questions using AI and document retrieval.
+- 🎤 **AI-Mock-Interview** – AI-driven mock interview platform with realistic Q&A simulations.
+- 🗣️ **ai-coaching-voice-agent** – Voice-based AI coaching assistant for personalized guidance.
+- 📘 **IntPrep** – A resource hub for interview preparation with categorized content.
+- ⏱️ **Focus-Flow** – A productivity timer and session tracker with detailed analytics.
+- 🎓 **portal-for-placement** – A college placement portal for managing students, admins, drives, and statistics.
 
 ---
 
