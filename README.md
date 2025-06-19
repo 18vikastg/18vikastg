@@ -17,20 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18vikastg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=18vikastg&theme=neon-palenight&hide_border=true&card_width=705" alt="GitHub Streak"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18vikastg&theme=2077" alt="Profile Summary"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18vikastg&theme=aura_dark" alt="GitHub Stats Card"/>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -63,6 +49,22 @@
 <img src="https://img.shields.io/badge/linux%20mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>  
 
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18vikastg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=18vikastg&theme=neon-palenight&hide_border=true&card_width=705" alt="GitHub Streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18vikastg&theme=2077" alt="Profile Summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18vikastg&theme=aura_dark" alt="GitHub Stats Card"/>
+</p>
+
+---
+
+
 
 ---
 
