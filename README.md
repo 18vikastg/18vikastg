@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎯 Currently working on **XDR Security Issues**
+- 🎯 Currently working on **Personal Projects**
 - 🚀 Exploring **SvelteKit, React.js, and modern full-stack frameworks**
 - 🧪 Passionate about **AI, cloud computing, and scalable systems**
 - 📫 Reach me: **vikastg2000@gmail.com**
