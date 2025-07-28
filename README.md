@@ -10,38 +10,32 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=18vikastg&color=green)
 
-</div>
-
 ---
 
-<h2 align="center">🌟 Building impactful solutions in Modern Web, Cloud & AI. Always learning, always building. 🌟</h2>
+<h2 align="center" style="font-size:1.6em;"><b>🌟 Building impactful solutions in Modern Web, Cloud & AI.<br>Always learning, always building. 🌟</b></h2>
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/><br>
-
-  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <br><br>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Svelte-f1413d?logo=svelte&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bulma-00d1b2?logo=bulma&logoColor=white&style=for-the-badge"/><br>
-
-  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/Bulma-00d1b2?logo=bulma&logoColor=white&style=for-the-badge"/>
+  <br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express-404d59?logo=express&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/><br>
-
-  <!-- Cloud/DevOps -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <br><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=orange&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge"/>
@@ -53,14 +47,14 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔁 [**AI Feedback Platform**](https://github.com/18vikastg/ai-feedback-platform) | Real-time feedback system for AI-generated responses using LangChain |
-| 🎬 [**Animation Site**](https://github.com/18vikastg/animation-site) | Interactive UI animations built with modern frontend tools |
-| 🧠 [**Medical Chatbot**](https://github.com/18vikastg/medical-chatbot) | AI-powered Q&A system for medical queries using FAISS & LangChain |
-| 👨‍💼 [**AI Mock Interview**](https://github.com/18vikastg/AI-Mock-Interview) | Simulates real-time interview sessions using AI |
-| 🗣 [**AI Coaching Voice Agent**](https://github.com/18vikastg/ai-coaching-voice-agent) | Voice-based AI coach using NLP pipelines |
-| 📚 [**IntPrep**](https://github.com/18vikastg/IntPrep) | Interview prep tool with categorized questions and resources |
-| 🎯 [**Focus Flow**](https://github.com/18vikastg/Focus-Flow) | Productivity timer with task tracking & analytics |
-| 🏫 [**Placement Portal**](https://github.com/18vikastg/portal-for-placement) | Web app to manage campus placements for students & admins |
+| 🔁 [**AI Feedback Platform**](https://github.com/18vikastg/ai-feedback-platform) | Real-time feedback system for AI-generated responses leveraging LangChain. |
+| 🎬 [**Animation Site**](https://github.com/18vikastg/animation-site) | Interactive UI animations built using modern frontend tools. |
+| 🧠 [**Medical Chatbot**](https://github.com/18vikastg/medical-chatbot) | AI-powered Q&A system for medical queries using FAISS & LangChain. |
+| 👨‍💼 [**AI Mock Interview**](https://github.com/18vikastg/AI-Mock-Interview) | Simulates live interview environments powered by AI. |
+| 🗣 [**AI Coaching Voice Agent**](https://github.com/18vikastg/ai-coaching-voice-agent) | Voice-based AI coach using state-of-the-art NLP pipelines. |
+| 📚 [**IntPrep**](https://github.com/18vikastg/IntPrep) | Curated interview prep tool with questions & resources. |
+| 🎯 [**Focus Flow**](https://github.com/18vikastg/Focus-Flow) | Productivity timer with task analytics and tracking. |
+| 🏫 [**Placement Portal**](https://github.com/18vikastg/portal-for-placement) | Full-fledged web app for campus placement management. |
 
 ---
 
@@ -78,8 +72,8 @@
 ---
 
 <div align="center">
-  
-### 💡 Thanks for visiting!  
+
+### 💡 **Thanks for visiting!**  
 **Keep Building. Keep Learning. 🚀**
 
 </div>
